@@ -34,5 +34,7 @@ navigation:
   url: /help
 - text: Contribute
   url: /contribute
+- text: Community
+  url: /community
 - text: Apache
   url: /apache
