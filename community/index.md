@@ -6,19 +6,19 @@ preamble: During the last years a large and active community has grown around Wi
 ---
 
 <div class="button-bar">
-    <a class="button" href="#questions"><i class="fa fa-github-square"></i><br>Get help</a>
-    <a class="button" href="#security"><i class="fa fa-twitter"></i><br>Security</a>
-    <a class="button" href="#commercial"><i class="fa fa-tumblr-square"></i><br>Commercial support</a>
+    <a class="button" href="#github"><i class="fa fa-github-square"></i><br>GitHub</a>
+    <a class="button" href="#twitter"><i class="fa fa-twitter"></i><br>Twitter</a>
+    <a class="button" href="#tumblr"><i class="fa fa-tumblr-square"></i><br>Tumblr</a>
 </div>
 
-## GitHub repository
+## GitHub repository {#github}
 
 Wicket is built by developers for developers. If you want to contribute with new features, patches or any other kind of code, you can use our mirror 
 repository on [GitHub](https://github.com/apache/wicket). You can find more details [here](../contribute/).
 
 ---
 
-## Twitter account
+## Twitter account {#twitter}
 
 Stay up-to-date with the last news from the Wicket universe following [our official account](https://twitter.com/apache_wicket). You will also find
 which sites are running on top of Wicket and other useful informations.
@@ -38,3 +38,8 @@ An overview of the available sub-projects can be found [here](https://github.com
 [Wicket-Bootstrap](http://wb.agilecoders.de/) is a full-fledged project that provides integration between Wicket and the popular CSS and JS framework. The project site
 offers a complete showcase of the available features.
 
+---
+
+## Tumblr account {#tumblr}
+
+You can show everyone what you have done with Wicket posting a screenshot at [our Tumblr account](http://builtwithwicket.tumblr.com/) 
